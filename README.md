@@ -1,2 +1,2 @@
 # wallpapers
-My personal collection of wallpapers. Dotfiles soon(ish).
+My personal collection of wallpapers.
